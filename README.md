@@ -4,7 +4,7 @@ Every Calculator has to have a limit. They can't get the result of so long numbe
 
 ![1](https://user-images.githubusercontent.com/36541960/67125455-7bf22f00-f1fd-11e9-975f-e880b2662fe6.PNG)
 
-As you can see, you can learn the result of 3249!(Factorial). But this program;
+As you can see, you can't learn the result of 3249!(Factorial). But this program;
 
 ![2](https://user-images.githubusercontent.com/36541960/67125739-210d0780-f1fe-11e9-88d0-a55ea11d41a2.PNG)
 
