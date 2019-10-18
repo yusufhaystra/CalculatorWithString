@@ -18,8 +18,9 @@ How can it learn ? Because It doesn't use number variables. It uses only String 
 
 As you can see, all number variables has a limit. Therefore they can't contain so long number.
 
-Also, you can check the my algorithm result if your process isn't long for other calculators.
-You can use the keyboards on the program.
+Also, you can check the result of my algorithm if your process isn't long for other calculators.
+
+You can use the keyboards on the program (absolutely)
 
 
 You can view my code.
