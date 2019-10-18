@@ -1,4 +1,6 @@
 # CalculatorWithString
+https://www.youtube.com/watch?v=3L5aD3UEYZc
+
 Calculator that can calculate so long number. It doesn't use number variables in this way, It can calculate up to almost infinity
 Every Calculator has to have a limit. They can't get the result of so long numbers. For example;
 
