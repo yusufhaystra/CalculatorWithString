@@ -10,9 +10,9 @@ As you can see, you can't learn the result of 3249!(Factorial). But this program
 
 ![2](https://user-images.githubusercontent.com/36541960/67125739-210d0780-f1fe-11e9-88d0-a55ea11d41a2.PNG)
 
-It showed the result ! Ofcourse, to see all the result we should right click to the result;
+It showed the result ! Ofcourse, we should right click to the result to learn all the result:
 
-![3](https://user-images.githubusercontent.com/36541960/67125755-266a5200-f1fe-11e9-9aa9-28bacb7939ca.PNG)
+![ 3](https://user-images.githubusercontent.com/36541960/67125755-266a5200-f1fe-11e9-9aa9-28bacb7939ca.PNG)
 
 How can it learn ? Because It doesn't use number variables. It uses only String variables. Because String variables is infinity. You can view the table of variables and features.
 
