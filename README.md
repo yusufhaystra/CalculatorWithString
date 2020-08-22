@@ -18,7 +18,7 @@ How can it learn ? Because It doesn't use number variables. It uses only String 
 
 ![datatypes](https://user-images.githubusercontent.com/36541960/67126095-f40d2480-f1fe-11e9-8473-9e33c3a91226.png)
 
-As you can see, all number variables has a limit. Therefore they can't contain so long number.
+As you can see, all number variables have a limit. Therefore they can't contain so long number.
 
 Also, you can check the result of my algorithm if your process isn't long for other calculators.
 
